@@ -131,7 +131,7 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
     ```
   </details>
 
-## 🦬 Certificações
+## 🧑‍🎓 Certificações
   
   - [EXIN Ethical Hacking Foundation](https://www.exin.com/pt-br/data-protection-security/exin-ethical-hacking/exin-ethical-hacking-foundation/) <br>
   
