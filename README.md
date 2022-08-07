@@ -23,7 +23,7 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Domain-Driven Design](https://amzn.to/3BJ68pN) <br>
 - [Engenharia de Confiabilidade do Google](https://amzn.to/3dczpPn) <br>
 
-## 🐧 DistroPublics linux 
+## 🐧 Distro Linux 
 
 - [Arch Linux](https://archlinux.org/) - Distribuição Linux Arch Linux <br>
 - [Debian](https://www.debian.org/) - Distribuição Linux Debian <br>
