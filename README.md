@@ -31,7 +31,7 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [OpenSUSE](https://www.opensuse.org) - Distribuição Linux OpenSUSE<br>
 - [Kali Linux](https://www.kali.org) - Distribuição Linux Kali Linux **Hacking Tool**<br>
 
-## 🔐 Pentest
+## 🕵 Pentest
 
 - [Malware Bazaar](https://bazaar.abuse.ch/browse/) - Compartilhar amostras de malware com a comunidade infosec <br>
 - [NMap](https://nmap.org/) - Scanner de portas de rede<br>
@@ -66,6 +66,17 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Python 3 - Curso Rápido](https://www.cod3r.com.br/courses/python-3-curso-rapido) <br>
 - [Python Fundamentos Para Análise de Dados 3.0](https://www.datascienceacademy.com.br/course/python-fundamentos) <br>
 
+## 🖱 Hardware 
+
+- [Robotics](https://github.com/Kiloreux/awesome-robotics#readme) - Robôs 
+- [Internet of Things](https://github.com/HQarroum/awesome-iot#readme) - Internet das coisas
+- [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+- [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme) 
+- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
+- [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
+- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
+- [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
+- [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
 
 ## 🐸 C++
 
@@ -80,6 +91,31 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Curso de GO 3](https://www.youtube.com/playlist?list=PLdKnuzc4h6gFmPLeous4S0xn0j9Ik2s3Y) <br>
 - [Curso de GO 4](https://www.youtube.com/playlist?list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp) <br>
 - [Curso de GO 5](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) <br>
+
+## 🔐 Security
+
+- [Application Security](https://github.com/paragonie/awesome-appsec#readme)
+- [Security](https://github.com/sbilly/awesome-security#readme)
+- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
+- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
+- [Android Security](https://github.com/ashishb/android-security-awesome#readme)
+- [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
+- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+- [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
+- [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
+- [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
+- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+- [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
+- [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
+- [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
+
 
 
 ## 🦬 Linha de comando
@@ -130,6 +166,14 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
     clear # => (clc no Powershell)
     ```
   </details>
+  
+## 🧬 Redes 
+
+- [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme)
+- [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
+- [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
+- [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
+- [SNMP](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 
 ## 🧑‍🎓 Certificações
   
