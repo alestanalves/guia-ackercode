@@ -23,7 +23,7 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Domain-Driven Design](https://amzn.to/3BJ68pN) <br>
 - [Engenharia de Confiabilidade do Google](https://amzn.to/3dczpPn) <br>
 
-## 🐧 Melhores distros linux 
+## 🐧 DistroPublics linux 
 
 - [Arch Linux](https://archlinux.org/) - Distribuição Linux Arch Linux <br>
 - [Debian](https://www.debian.org/) - Distribuição Linux Debian <br>
@@ -45,7 +45,7 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes<br>
 
 
-## 🐍 Cursos de Python
+## 🐍 Python
 
 - [Curso de Python 1](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
 - [Curso de Python 2](https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) <br>
@@ -57,8 +57,7 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Curso de Python 8](https://www.youtube.com/watch?v=t8pPdKYpowI) <br>
 - [Curso de Python 9](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) <br>
 - [Curso de Python 10](https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k) <br>
-
-- [PYTHON 3 COMPLETO CURSO EM VIDEO:](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
+- [Python curso em vídeo playlist](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
 - [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) <br>
 - [Curso de Python 3 - Mundo 2: Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) <br>
 - [Curso de Python 3 - Mundo 3: Estruturas Compostas](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) <br>
@@ -67,13 +66,13 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Python Fundamentos Para Análise de Dados 3.0](https://www.datascienceacademy.com.br/course/python-fundamentos) <br>
 
 
-## 🐸 Cursos de C++
+## 🐸 C++
 
 - [Curso de C++ 1](https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40) <br>
 - [Curso de C++ 2](https://youtube.com/playlist?list=PLR8Jf69jN0ulqMI8n85Cr2NsoerSF9DF5) <br>
 - [Guia de C++ 3](https://www.inf.ufpr.br/ci208/NotasAula.pdf) <br>
 
-## 🐭 Cursos de Go
+## 🐭 Go
 
 - [Curso de GO 1](https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) <br>
 - [Curso de GO 2](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) <br>
