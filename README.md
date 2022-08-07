@@ -68,15 +68,15 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 
 ## 🖱 Hardware 
 
-- [Robotics](https://github.com/Kiloreux/awesome-robotics#readme) - Robôs 
+- [Robotics](https://github.com/Kiloreux/awesome-robotics#readme) - Awesome Robôs 
 - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme) - Internet das coisas
-- [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+- [Electronics](https://github.com/kitspace/awesome-electronics#readme) - Para engenheiros eletrônicos e amadores
 - [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme) 
-- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
-- [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
-- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
-- [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
-- [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
+- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist para construir sua própria guitarra elétrica
+- [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Máquinas de desenho controladas por computador e outros robôs de artes visuais
+- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - Ferramentas gratuitas e abertas para desenvolvimento robótico profissional
+- [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.Sensor para medir distâncias iluminando o alvo com luz laser
+- [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects
 
 ## 🐸 C++
 
@@ -97,24 +97,25 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
 - [Security](https://github.com/sbilly/awesome-security#readme)
 - [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
-- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
-- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
-- [Android Security](https://github.com/ashishb/android-security-awesome#readme)
-- [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
-- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
-- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
-- [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
-- [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
-- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
-- [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
-- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
-- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
-- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
-- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
-- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
-- [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
-- [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
-- [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
+- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Recursos educacionais gratuitos que se concentram em aprender fazendo
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) - Analise de Malware
+- [Android Security](https://github.com/ashishb/android-security-awesome#readme) - Segurança no android
+- [Hacking](https://github.com/carpedm20/awesome-hacking#readme) - hacking
+- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme) - Hacking localização
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Armadilha de engano, projetada para atrair um invasor a tentar comprometer os sistemas de informação em uma organização
+- [Incident Response](https://github.com/meirwah/awesome-incident-response#readme) - Resposta a incidentes
+- [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme) - Hacking de veiculos 
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Segurança na web & serviços.
+- [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - A arte de destravar uma fechadura manipulando seus componentes sem a chave
+- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Grupos de indivíduos que identificam falhas de segurança em sistemas de tecnologia da informação
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Técnica de teste de software automatizado que envolve a alimentação de dados de entrada gerados pseudo-aleatoriamente
+- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme) - Segurança em IoT
+- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - GDPR a LGPD da Europa
+- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Pipeline de DevOps para segurança
+- [DevOps](https://en.wikipedia.org/wiki/DevOps) - DevOps
+- [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Compactando e descompactando formatos executáveis
+- [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Técnicas que os adversários usam para manter o acesso aos sistemas durante as reinicializações
+- [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Entendendo o ecossistema de segurança da Ethereum Virtual Machine
 
 
 
@@ -169,11 +170,11 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
   
 ## 🧬 Redes 
 
-- [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme)
-- [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
+- [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme) - Redes Definidas por software
+- [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme) - Analise de Rede
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
-- [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
-- [SNMP](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+- [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Protocolos de rede para troca quase simultânea de mídia e dados
+- [SNMP](https://github.com/eozer/awesome-snmp#readme) - Um protocolo para coletar, modificar e organizar informações sobre dispositivos gerenciados em redes IP
 
 ## 🧑‍🎓 Certificações
   
