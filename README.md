@@ -5,13 +5,23 @@
   <h1 align="center">Seu guia de programação e hacking</h1>
 </p>
 
+Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hacking para todos, temos o objetivo de te ajudar a trilhar um caminho nessa área que tanto amamos. Contudo, fique com os conteúdos abaixo e não esqueça de nos **seguir** por aqui e bem-vindo ao mundo da tecnologia.
+
 ## 📚 Recomendação de livros
 
-- [Clean Code - Código Limpo](https://g.co/kgs/62wx9t) <br>
-- [Refactoring - Refatoração](https://g.co/kgs/Hf2eY3) <br>
-- [Clean Archtecture - Arquitertura Limpa](https://g.co/kgs/Hf2eY3) <br>
-- [O programador pragmático](https://g.co/kgs/5nbqB3) <br>
-- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://g.co/kgs/1fGbnx) <br>
+- [Clean Code - Código Limpo](https://amzn.to/3zJVv3I) <br>
+- [Refactoring - Refatoração](https://amzn.to/3P7owfb) <br>
+- [Clean Archtecture - Arquitertura Limpa](https://amzn.to/3P1B9Z7) <br>
+- [O programador pragmático](https://amzn.to/3AcDXPb) <br>
+- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://amzn.to/3QuJTIx) <br>
+- [Linux Basics for Hackers](https://amzn.to/3A0Xkua) <br>
+- [The Hardware Hacking Handbook](https://amzn.to/3Q7Kvnp) <br>
+- [Practical Iot Hacking](https://amzn.to/3C3BVCj) <br>
+- [Black Hat Go](https://amzn.to/3p6y67j) <br>
+- [Introdução à Linguagem Go](https://amzn.to/3zvqwIo) <br>
+- [O mítico homem-mês](https://amzn.to/3A0Xkua) <br>
+- [Domain-Driven Design](https://amzn.to/3BJ68pN) <br>
+- [Engenharia de Confiabilidade do Google](https://amzn.to/3dczpPn) <br>
 
 ## 🐧 Melhores distros linux 
 
@@ -21,17 +31,19 @@
 - [OpenSUSE](https://www.opensuse.org) - Distribuição Linux OpenSUSE<br>
 - [Kali Linux](https://www.kali.org) - Distribuição Linux Kali Linux **Hacking Tool**<br>
 
-## 🔓 Pentest
+## 🔐 Pentest
 
-- [Beef-Project](https://beefproject.com/) - Framework de exploração de browser <br>
-- [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios reais de hacking, desenvolvido por especialistas brasileiros <br>
-- [HackTheBox](https://www.hackthebox.eu/) - Site com laboratórios para praticar pentest de forma gratuita e legal <br>
-- [HStrike](https://hstrike.com/) - Ferramentas de pentest em nuvem <br>
-- [HTTRack](http://www.httrack.com/) - Browser utility <br>
-- [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes completa <br>
-- [NMap](https://nmap.org/) - Scanner de portas de rede <br>
+- [Malware Bazaar](https://bazaar.abuse.ch/browse/) - Compartilhar amostras de malware com a comunidade infosec <br>
+- [NMap](https://nmap.org/) - Scanner de portas de rede<br>
 - [picoCTF](https://picoctf.com/) - picoCTF é um programa gratuito de educação em segurança de computadores com conteúdo original construído em uma estrutura capture-the-flag criada por especialistas em segurança e privacidade da Carnegie Mellon University <br>
-- [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source para injeção de SQL <br>
+- [SQLMap](http://sqlmap.org/) - Ferramenta de teste para injeção de SQL <br>
+- [Beef-Project](https://beefproject.com/) - Framework de exploração de navegador web<br>
+- [Capture The Flag - CTF](https://capturetheflag.com.br/) - Desafios de hacking mais próximos dos reais<br>
+- [HackTheBox](https://www.hackthebox.eu/) - Laboratórios para praticar pentest<br>
+- [HStrike](https://hstrike.com/) - Pentest em nuvem <br>
+- [HTTRack](http://www.httrack.com/) - Browser utility <br>
+- [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes<br>
+
 
 ## 🐍 Cursos de Python
 
@@ -61,7 +73,7 @@
 - [Curso de C++ 2](https://youtube.com/playlist?list=PLR8Jf69jN0ulqMI8n85Cr2NsoerSF9DF5) <br>
 - [Guia de C++ 3](https://www.inf.ufpr.br/ci208/NotasAula.pdf) <br>
 
-## 🐺 Cursos de Go
+## 🐭 Cursos de Go
 
 - [Curso de GO 1](https://youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) <br>
 - [Curso de GO 2](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) <br>
@@ -70,7 +82,7 @@
 - [Curso de GO 5](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) <br>
 
 
-## 📚 Linha de comando
+## 🦬 Linha de comando
 - [Curso de Terminal Linux - Daniel Berg](https://www.youtube.com/playlist?list=PLbV6TI03ZWYXXwbP2TNTbviUaFh6YqqVt) <br>
 - [Curso de Linux Avançado Terminal - Dicas do Guarapa](https://www.youtube.com/playlist?list=PLGw1E40BSQnRZufbzjGVzkH-O8SngPymp) <br>
 - [Comandos para o terminal (Windows, macOS e Linux) - Lucas Caton](https://www.lucascaton.com.br/2018/01/07/comandos-para-o-terminal-windows-macos-e-linux)
