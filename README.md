@@ -47,6 +47,7 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 
 ## 🐍 Python
 
+- [Scripts Python](https://github.com/ackercode/tutorials) <br>
 - [Curso de Python 1](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
 - [Curso de Python 2](https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) <br>
 - [Curso de Python 3](https://www.youtube.com/watch?v=XKHEtdqhLK8) <br>
