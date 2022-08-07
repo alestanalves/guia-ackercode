@@ -9,15 +9,15 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 
 ## 📚 Recomendação de livros
 
+- [The Hardware Hacking Handbook](https://amzn.to/3Q7Kvnp) <br>
+- [Practical Iot Hacking](https://amzn.to/3C3BVCj) <br>
+- [Black Hat Go](https://amzn.to/3p6y67j) <br>
 - [Clean Code - Código Limpo](https://amzn.to/3zJVv3I) <br>
 - [Refactoring - Refatoração](https://amzn.to/3P7owfb) <br>
 - [Clean Archtecture - Arquitertura Limpa](https://amzn.to/3P1B9Z7) <br>
 - [O programador pragmático](https://amzn.to/3AcDXPb) <br>
 - [14 Hábitos de Desenvolvedores Altamente Produtivos](https://amzn.to/3QuJTIx) <br>
 - [Linux Basics for Hackers](https://amzn.to/3A0Xkua) <br>
-- [The Hardware Hacking Handbook](https://amzn.to/3Q7Kvnp) <br>
-- [Practical Iot Hacking](https://amzn.to/3C3BVCj) <br>
-- [Black Hat Go](https://amzn.to/3p6y67j) <br>
 - [Introdução à Linguagem Go](https://amzn.to/3zvqwIo) <br>
 - [O mítico homem-mês](https://amzn.to/3A0Xkua) <br>
 - [Domain-Driven Design](https://amzn.to/3BJ68pN) <br>
@@ -130,3 +130,8 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
     clear # => (clc no Powershell)
     ```
   </details>
+
+  ## 🦬 Certificações
+  
+  - [EXIN Ethical Hacking Foundation](https://www.exin.com/pt-br/data-protection-security/exin-ethical-hacking/exin-ethical-hacking-foundation/) <br>
+  
