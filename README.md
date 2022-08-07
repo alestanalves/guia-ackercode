@@ -120,8 +120,10 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 
 
 ## 🦬 Linha de comando
-- [Curso de Terminal Linux - Daniel Berg](https://www.youtube.com/playlist?list=PLbV6TI03ZWYXXwbP2TNTbviUaFh6YqqVt) <br>
-- [Curso de Linux Avançado Terminal - Dicas do Guarapa](https://www.youtube.com/playlist?list=PLGw1E40BSQnRZufbzjGVzkH-O8SngPymp) <br>
+
+- [Network Chuck](https://www.youtube.com/watch?v=Fq6gqi9Ubog) <br> 
+- [Curso de Terminal Linux](https://www.youtube.com/playlist?list=PLbV6TI03ZWYXXwbP2TNTbviUaFh6YqqVt) <br>
+- [Curso de Linux Avançado Terminal](https://www.youtube.com/playlist?list=PLGw1E40BSQnRZufbzjGVzkH-O8SngPymp) <br>
 - [Comandos para o terminal (Windows, macOS e Linux) - Lucas Caton](https://www.lucascaton.com.br/2018/01/07/comandos-para-o-terminal-windows-macos-e-linux)
 
   <details>
