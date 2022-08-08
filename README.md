@@ -184,6 +184,37 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Whois by registrant name](http://viewdns.info/reversewhois/) <br>
 - [Zeltser's list](https://zeltser.com/lookup-malicious-websites/) <br>
 
+## 😎 Privacidade
+
+ - [BitWarden](https://bitwarden.com) - Gerenciador de senhas <br>
+ - [Password Safe](https://www.pwsafe.org/) - Gerenciador de senhas <br>
+ - [Cryptomator](https://cryptomator.org) - Encriptar arquivos <br>
+ - [Brave Browser](https://brave.com) - Private Browser <br>
+ - [Tor Browser](https://www.torproject.org/) - Browser privado e anonimo <br>
+ - [ProtonMail](https://protonmail.com/) - Provedor de email <br>
+ 
+ ## 🍒 Raspberry Pi/ IoT Security Software
+
+- [OnionPi](https://github.com/breadtk/onion_pi) - Create an Anonymizing Tor Proxy using a Raspberry Pi
+- [CIRCLean](https://www.circl.lu/projects/CIRCLean) - A Pi-based USB Sanitizer, plug an untrusted USB in, and get clean files out
+- [Pi Hole](https://pi-hole.net) - A network-wide ad-block, that improves network performance as well as privacy
+- [Project Alias](https://github.com/bjoernkarmann/project_alias) - Gives you full-control, and better privacy of your Google Home or Alexa
+- [Raspiblitz](https://github.com/rootzoll/raspiblitz) - Build your own Bitcoin & Lightning Node on a Pi, see also [Trezor](https://github.com/trezor/trezor-firmware) wallet
+- [PiVPN](https://www.pivpn.io) - Simple low-cost yet secure VPN, for the Raspberry Pi (or set up manually, as outlined in [this guide](https://pimylifeup.com/raspberry-pi-vpn-server/))
+- [DeauthDetector](https://github.com/spacehuhn/DeauthDetector) - Detect deauthentication frames using an ESP8266, useful to be aware of ongoing wireless attacks
+- [IPFire](https://www.ipfire.org) - Hardened open source firewall to prevent common attacks on your network. Capable of running on a Pi
+- [SquidGuard](http://www.squidguard.org) - Fast and free URL redirector, which can work well as a home caching server
+- [E2guardian](http://e2guardian.org) - Comprehensive content filtering, with powerful configuration options
+
+
+## 👉 USB-based projects:
+
+- [DBAN](https://dban.org) - Bootable hard drive erasers for destroying data
+- [Syncthing](https://syncthing.net) - Create automated backups to an external medium
+- [KeePass Portable](https://keepass.info/download.html) - Portable password manager. For hardware-encrypted password manager, see [HardPass 2.0](https://hackaday.io/project/21227-hardpass02-hardware-passwd-manager-w-smart-card)
+- [VeraCrypt](https://www.veracrypt.fr) - Full drive encryption for USB devices
+
+
 ## ⭐ Awesome 
 
 - [Hacking list](https://github.com/Hack-with-Github/Awesome-Hacking)
@@ -192,8 +223,9 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Analise de Malware](https://github.com/rshipp/awesome-malware-analysis/)
 - [Red Team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 - [Seguranca](https://github.com/sbilly/awesome-security)
+- [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
 
-## 🦬 Linha de comando
+## 🦾 Linha de comando
 
 - [Network Chuck](https://www.youtube.com/watch?v=Fq6gqi9Ubog) <br> 
 - [Curso de Terminal Linux](https://www.youtube.com/playlist?list=PLbV6TI03ZWYXXwbP2TNTbviUaFh6YqqVt) <br>
@@ -252,7 +284,7 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Protocolos de rede para troca quase simultânea de mídia e dados
 - [SNMP](https://github.com/eozer/awesome-snmp#readme) - Um protocolo para coletar, modificar e organizar informações sobre dispositivos gerenciados em redes IP
 
-## 🧑‍🎓 Certificações
+## 🎓 Certificações
   
   - [EXIN Ethical Hacking Foundation](https://www.exin.com/pt-br/data-protection-security/exin-ethical-hacking/exin-ethical-hacking-foundation/) <br>
   - [AWS Security](https://aws.amazon.com/pt/certification/certified-security-specialty/?ch=sec&sec=rmg&d=1) <br>
