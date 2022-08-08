@@ -22,6 +22,8 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [O mítico homem-mês](https://amzn.to/3A0Xkua) <br>
 - [Domain-Driven Design](https://amzn.to/3BJ68pN) <br>
 - [Engenharia de Confiabilidade do Google](https://amzn.to/3dczpPn) <br>
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books) <br>
+- [Recommended Reading](http://dfir.org/?q=node/8) <br>
 
 ## 🐧 Distro Linux 
 
@@ -43,7 +45,6 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [HStrike](https://hstrike.com/) - Pentest em nuvem <br>
 - [HTTRack](http://www.httrack.com/) - Browser utility <br>
 - [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes<br>
-
 
 ## 🐍 Python
 
@@ -68,7 +69,7 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 
 ## 🖱 Hardware 
 
-- [Robotics](https://github.com/Kiloreux/awesome-robotics#readme) - Awesome Robôs 
+- [Robotics](https://github.com/Kiloreux/awesome-robotics#readme) - Awesome Robotics 
 - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme) - Internet das coisas
 - [Electronics](https://github.com/kitspace/awesome-electronics#readme) - Para engenheiros eletrônicos e amadores
 - [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme) 
@@ -117,7 +118,80 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Técnicas que os adversários usam para manter o acesso aos sistemas durante as reinicializações
 - [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Entendendo o ecossistema de segurança da Ethereum Virtual Machine
 
+## 🎩 Hacking
 
+- [Analise de Malware](https://github.com/rshipp/awesome-malware-analysis/) <br>
+- [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) <br>
+- [Reversing](https://github.com/tylerha97/awesome-reversing) <br>
+- [Web Hacking Security](https://github.com/qazbnm456/awesome-web-security/) <br>
+- [Web Hacking](https://github.com/infoslack/awesome-web-hacking) <br>
+- [Red Team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) <br>
+
+
+## 🍫 Bug bounty 
+
+- [Bounty factory](https://bountyfactory.io) <br> 
+- [Bugcrowd](https://bugcrowd.com/programs) <br> 
+- [Google](https://www.google.com/about/appsecurity/reward-program/) <br> 
+- [HackerOne](https://hackerone.com) <br> 
+- [List of bug bounty](https://www.bugcrowd.com/bug-bounty-list/) <br> 
+- [Microsoft](https://technet.microsoft.com/en-us/security/dn425036) <br> 
+- [Open bug bounty](https://www.openbugbounty.org/) <br> 
+- [Programs and write-ups](https://github.com/djadmin/awesome-bug-bounty) <br> 
+- [Write-ups](https://github.com/ngalongc/bug-bounty-reference) <br> 
+- [Zerodium](https://www.zerodium.com/) 💰:trollface:
+
+## 📉 Domain name Research / Analysis / Reputation
+
+- [Archive](https://archive.is/) <br>
+- [Archive2](https://web.archive.org/) <br>
+- [BGP Toolkit](http://bgp.he.net/) <br>
+- [Biggest DNS history](https://securitytrails.com/list/ip/$IP) <br>
+- [Cache page](http://www.cachedpages.com/) <br>
+- [Cache view](http://cachedview.com/) <br>
+- [Checking multiple blocklists](http://rbls.org/) <br>
+- [DGA intro](https://en.wikipedia.org/wiki/Domain_generation_algorithm) <br>
+- [DNS Blacklists](https://raw.githubusercontent.com/zbetcheckin/DNSBLs/master/active_dnsbls.txt) <br>
+- [DNS dumpster](https://dnsdumpster.com/) <br>
+- [DNS Propagation Checker](https://www.whatsmydns.net/) <br>
+- [DNS stuff](http://www.dnsstuff.com/) <br>
+- [Domain analysis list](https://github.com/rshipp/awesome-malware-analysis/#domain-analysis) <br>
+- [Domain hijacking intro](https://en.wikipedia.org/wiki/Domain_hijacking) <br>
+- [Expired domain](https://www.expireddomains.net/backorder-expired-domains/) <br>
+- [Google](https://www.google.com/transparencyreport/safebrowsing/diagnostic/) <br>
+- [Into dns](http://www.intodns.com/) <br>
+- [Multi RBL](http://multirbl.valli.org/lookup/) <br>
+- [MXToolBox](https://mxtoolbox.com/SuperTool.aspx#) <br>
+- [Netcraft](http://www.netcraft.com/) <br>
+- [Reverse Whois](https://reversewhois.domaintools.com/) <br>
+- [Robtex](https://www.robtex.com/dns/) <br>
+- [Sucuri](http://sitecheck.sucuri.net/scanner) <br>
+- [TCP utils](http://www.tcpiputils.com/) <br>
+- [Threat log](http://www.threatlog.com/) <br>
+- [Threat miner](https://www.threatminer.org/) <br>
+- [Top-Level Domains list](https://data.iana.org/TLD/tlds-alpha-by-domain.txt ) <br>
+- [Trusted source](http://www.trustedsource.org/) <br>
+- [URL Query](http://urlquery.net) <br>
+- [URL scan](https://urlscan.io/ ) <br>
+- [URL shorter list](https://mirror1.malwaredomains.com/files/url_shorteners.txt/) <br>
+- [URL Void](http://www.urlvoid.com/) <br>
+- [Virus total](https://www.virustotal.com/#url) <br>
+- [Whois - ARIN](https://whois.arin.net/) <br>
+- [Whois - LACNIC](http://lacnic.net/cgi-bin/lacnic/whois) <br>
+- [Whois - RIPE NCC](https://apps.db.ripe.net/search/query.html) <br>
+- [Whois - AFRINIC](http://www.afrinic.net/fr/services/whois-query) <br>
+- [Whois - APNIC](https://archive.is/) <br>
+- [Whois by registrant name](http://viewdns.info/reversewhois/) <br>
+- [Zeltser's list](https://zeltser.com/lookup-malicious-websites/) <br>
+
+## ⭐ Awesome 
+
+- [Hacking list](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Honeypots](https://github.com/paralax/awesome-honeypots)
+- [Reposta a incidentes](https://github.com/meirwah/awesome-incident-response/)
+- [Analise de Malware](https://github.com/rshipp/awesome-malware-analysis/)
+- [Red Team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+- [Seguranca](https://github.com/sbilly/awesome-security)
 
 ## 🦬 Linha de comando
 
