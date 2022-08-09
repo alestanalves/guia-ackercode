@@ -120,13 +120,15 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 
 ## 🎩 Hacking
 
+- [HackTheBox](https://www.hackthebox.com/) <br>
+- [HackaFlag](https://hackaflag.com.br/academy.html) 
+- [TryHackMe](https://tryhackme.com/hacktivities) 
 - [Analise de Malware](https://github.com/rshipp/awesome-malware-analysis/) <br>
 - [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) <br>
 - [Reversing](https://github.com/tylerha97/awesome-reversing) <br>
 - [Web Hacking Security](https://github.com/qazbnm456/awesome-web-security/) <br>
 - [Web Hacking](https://github.com/infoslack/awesome-web-hacking) <br>
 - [Red Team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) <br>
-
 
 ## 🍫 Bug bounty 
 
