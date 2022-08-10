@@ -5,6 +5,8 @@
   <h1 align="center">Seu guia de programação e hacking</h1>
 </p>
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hacking para todos, temos o objetivo de te ajudar a trilhar um caminho nessa área que tanto amamos. Contudo, fique com os conteúdos abaixo e não esqueça de nos **seguir** por aqui e bem-vindo ao mundo da tecnologia.
 
 ## Build your own X ≧◠‿◠≦✌
