@@ -7,6 +7,10 @@
 
 Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hacking para todos, temos o objetivo de te ajudar a trilhar um caminho nessa área que tanto amamos. Contudo, fique com os conteúdos abaixo e não esqueça de nos **seguir** por aqui e bem-vindo ao mundo da tecnologia.
 
+## Build your own X ≧◠‿◠≦✌
+
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+
 ## 📚 Recomendação de livros
 
 - [The Hardware Hacking Handbook](https://amzn.to/3Q7Kvnp) <br>
