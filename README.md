@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/arthurspk/guiadevbrasil">
+  <a href="https://github.com/alestanalves/guia-ackercode">
     <img src="https://user-images.githubusercontent.com/48387196/183309806-88d29b65-2202-443a-be2d-1d51fc16559c.png" width="300" height="300">
   </a>
   <h1 align="center">Seu guia de programação e hacking</h1>
