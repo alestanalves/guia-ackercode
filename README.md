@@ -128,6 +128,7 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Compactando e descompactando formatos executáveis
 - [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Técnicas que os adversários usam para manter o acesso aos sistemas durante as reinicializações
 - [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Entendendo o ecossistema de segurança da Ethereum Virtual Machine
+- [OSCE Study Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide)
 
 ## 🎩 Hacking
 
@@ -156,6 +157,19 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Programs and write-ups](https://github.com/djadmin/awesome-bug-bounty) <br> 
 - [Write-ups](https://github.com/ngalongc/bug-bounty-reference) <br> 
 - [Zerodium](https://www.zerodium.com/) 💰:trollface:
+
+## 🏁 CTF - Capture the flag
+
+- [CTF - Google](https://capturetheflag.withgoogle.com/)
+- [Hacker101 ]( https://ctf.hacker101.com)
+- [HSTRIKE](https://hstrike.com)
+- [ImmersiveLabs](https://immersivelabs.com)
+- [NewbieContest](https://www.newbiecontest.org/)
+- [Pentestlab](https://pentesterlab.com)
+- [PentestIT LAB](https://lab.pentestit.ru)
+- [PicoCTF](https://picoctf.com)
+- [Root in Jail](http://rootinjail.com)
+- [Academy Hackaflag BR](https://hackaflag.com.br/)
 
 ## 📉 Domain name Research / Analysis / Reputation
 
