@@ -142,6 +142,7 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Red Team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) <br>
 - [Hacker101](https://github.com/Hacker0x01/hacker101) <br>
 - [Pentest Lab](https://pentesterlab.com/) Labs para pentest <br>
+- [Offensive Security](https://www.offensive-security.com/)
 
 ## 🍫 Bug bounty 
 
