@@ -11,6 +11,10 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 
+## Introdução à Ciência da Computação
+
+- [computer-science](https://github.com/ossu/computer-science)
+
 ## 📚 Recomendação de livros
 
 - [The Hardware Hacking Handbook](https://amzn.to/3Q7Kvnp) <br>
@@ -96,6 +100,7 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Curso de GO 3](https://www.youtube.com/playlist?list=PLdKnuzc4h6gFmPLeous4S0xn0j9Ik2s3Y) <br>
 - [Curso de GO 4](https://www.youtube.com/playlist?list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp) <br>
 - [Curso de GO 5](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) <br>
+- [Awesome Go](https://github.com/avelino/awesome-go)╰(*°▽°*)╯ 🇧🇷 <br>
 
 ## 🔐 Security
 
