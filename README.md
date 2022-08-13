@@ -47,6 +47,7 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 
 - [Malware Bazaar](https://bazaar.abuse.ch/browse/) - Compartilhar amostras de malware com a comunidade infosec <br>
 - [NMap](https://nmap.org/) - Scanner de portas de rede<br>
+- [WireShark](https://www.wireshark.org/) - Scanner de trafego de rede <br>
 - [picoCTF](https://picoctf.com/) - picoCTF é um programa gratuito de educação em segurança de computadores com conteúdo original construído em uma estrutura capture-the-flag criada por especialistas em segurança e privacidade da Carnegie Mellon University <br>
 - [SQLMap](http://sqlmap.org/) - Ferramenta de teste para injeção de SQL <br>
 - [Beef-Project](https://beefproject.com/) - Framework de exploração de navegador web<br>
