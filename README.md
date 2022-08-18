@@ -36,6 +36,73 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books) <br>
 - [Recommended Reading](http://dfir.org/?q=node/8) <br>
 
+## 🔐 Security
+
+- [Application Security](https://github.com/paragonie/awesome-appsec#readme)
+- [Security](https://github.com/sbilly/awesome-security#readme)
+- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
+- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Recursos educacionais gratuitos que se concentram em aprender fazendo
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) - Analise de Malware
+- [Android Security](https://github.com/ashishb/android-security-awesome#readme) - Segurança no android
+- [Hacking](https://github.com/carpedm20/awesome-hacking#readme) - hacking
+- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme) - Hacking localização
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Armadilha de engano, projetada para atrair um invasor a tentar comprometer os sistemas de informação em uma organização
+- [Incident Response](https://github.com/meirwah/awesome-incident-response#readme) - Resposta a incidentes
+- [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme) - Hacking de veiculos 
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Segurança na web & serviços.
+- [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - A arte de destravar uma fechadura manipulando seus componentes sem a chave
+- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Grupos de indivíduos que identificam falhas de segurança em sistemas de tecnologia da informação
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Técnica de teste de software automatizado que envolve a alimentação de dados de entrada gerados pseudo-aleatoriamente
+- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme) - Segurança em IoT
+- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - GDPR a LGPD da Europa
+- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Pipeline de DevOps para segurança
+- [DevOps](https://en.wikipedia.org/wiki/DevOps) - DevOps
+- [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Compactando e descompactando formatos executáveis
+- [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Técnicas que os adversários usam para manter o acesso aos sistemas durante as reinicializações
+- [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Entendendo o ecossistema de segurança da Ethereum Virtual Machine
+- [OSCE Study Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide)
+
+## 🎩 Hacking
+
+- [HackTheBox](https://www.hackthebox.com/) <br>
+- [HackaFlag](https://hackaflag.com.br/academy.html) 
+- [TryHackMe](https://tryhackme.com/hacktivities) 
+- [Analise de Malware](https://github.com/rshipp/awesome-malware-analysis/) <br>
+- [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) <br>
+- [Reversing](https://github.com/tylerha97/awesome-reversing) <br>
+- [Web Hacking Security](https://github.com/qazbnm456/awesome-web-security/) <br>
+- [Web Hacking](https://github.com/infoslack/awesome-web-hacking) <br>
+- [Red Team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) <br>
+- [Hacker101](https://github.com/Hacker0x01/hacker101) <br>
+- [Pentest Lab](https://pentesterlab.com/) Labs para pentest <br>
+- [Offensive Security](https://www.offensive-security.com/)
+
+## 🍫 Bug bounty 
+
+- [Bounty factory](https://bountyfactory.io) <br> 
+- [Bugcrowd](https://bugcrowd.com/programs) <br> 
+- [Google](https://www.google.com/about/appsecurity/reward-program/) <br> 
+- [HackerOne](https://hackerone.com) <br> 
+- [List of bug bounty](https://www.bugcrowd.com/bug-bounty-list/) <br> 
+- [Microsoft](https://technet.microsoft.com/en-us/security/dn425036) <br> 
+- [Open bug bounty](https://www.openbugbounty.org/) <br> 
+- [Programs and write-ups](https://github.com/djadmin/awesome-bug-bounty) <br> 
+- [Write-ups](https://github.com/ngalongc/bug-bounty-reference) <br> 
+- [Zerodium](https://www.zerodium.com/) 💰:trollface:
+
+## 🏁 CTF - Capture the flag
+
+- [CTF - Google](https://capturetheflag.withgoogle.com/)
+- [Hacker101 ]( https://ctf.hacker101.com)
+- [HSTRIKE](https://hstrike.com)
+- [ImmersiveLabs](https://immersivelabs.com)
+- [NewbieContest](https://www.newbiecontest.org/)
+- [Pentestlab](https://pentesterlab.com)
+- [PentestIT LAB](https://lab.pentestit.ru)
+- [PicoCTF](https://picoctf.com)
+- [Root in Jail](http://rootinjail.com)
+- [Academy Hackaflag BR](https://hackaflag.com.br/)
+
 ## 🐧 Distro Linux 
 
 - [Arch Linux](https://archlinux.org/) - Distribuição Linux Arch Linux <br>
@@ -105,73 +172,6 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 - [Curso de GO 4](https://www.youtube.com/playlist?list=PLt1J5u9LpM5-L-Ps8jjr91pKhFxAnxKJp) <br>
 - [Curso de GO 5](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) <br>
 - [Awesome Go](https://github.com/avelino/awesome-go)╰(*°▽°*)╯ 🇧🇷 <br>
-
-## 🔐 Security
-
-- [Application Security](https://github.com/paragonie/awesome-appsec#readme)
-- [Security](https://github.com/sbilly/awesome-security#readme)
-- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
-- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Recursos educacionais gratuitos que se concentram em aprender fazendo
-- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) - Analise de Malware
-- [Android Security](https://github.com/ashishb/android-security-awesome#readme) - Segurança no android
-- [Hacking](https://github.com/carpedm20/awesome-hacking#readme) - hacking
-- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme) - Hacking localização
-- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Armadilha de engano, projetada para atrair um invasor a tentar comprometer os sistemas de informação em uma organização
-- [Incident Response](https://github.com/meirwah/awesome-incident-response#readme) - Resposta a incidentes
-- [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme) - Hacking de veiculos 
-- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Segurança na web & serviços.
-- [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - A arte de destravar uma fechadura manipulando seus componentes sem a chave
-- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Grupos de indivíduos que identificam falhas de segurança em sistemas de tecnologia da informação
-- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Técnica de teste de software automatizado que envolve a alimentação de dados de entrada gerados pseudo-aleatoriamente
-- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme) - Segurança em IoT
-- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - GDPR a LGPD da Europa
-- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Pipeline de DevOps para segurança
-- [DevOps](https://en.wikipedia.org/wiki/DevOps) - DevOps
-- [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Compactando e descompactando formatos executáveis
-- [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Técnicas que os adversários usam para manter o acesso aos sistemas durante as reinicializações
-- [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Entendendo o ecossistema de segurança da Ethereum Virtual Machine
-- [OSCE Study Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide)
-
-## 🎩 Hacking
-
-- [HackTheBox](https://www.hackthebox.com/) <br>
-- [HackaFlag](https://hackaflag.com.br/academy.html) 
-- [TryHackMe](https://tryhackme.com/hacktivities) 
-- [Analise de Malware](https://github.com/rshipp/awesome-malware-analysis/) <br>
-- [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) <br>
-- [Reversing](https://github.com/tylerha97/awesome-reversing) <br>
-- [Web Hacking Security](https://github.com/qazbnm456/awesome-web-security/) <br>
-- [Web Hacking](https://github.com/infoslack/awesome-web-hacking) <br>
-- [Red Team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) <br>
-- [Hacker101](https://github.com/Hacker0x01/hacker101) <br>
-- [Pentest Lab](https://pentesterlab.com/) Labs para pentest <br>
-- [Offensive Security](https://www.offensive-security.com/)
-
-## 🍫 Bug bounty 
-
-- [Bounty factory](https://bountyfactory.io) <br> 
-- [Bugcrowd](https://bugcrowd.com/programs) <br> 
-- [Google](https://www.google.com/about/appsecurity/reward-program/) <br> 
-- [HackerOne](https://hackerone.com) <br> 
-- [List of bug bounty](https://www.bugcrowd.com/bug-bounty-list/) <br> 
-- [Microsoft](https://technet.microsoft.com/en-us/security/dn425036) <br> 
-- [Open bug bounty](https://www.openbugbounty.org/) <br> 
-- [Programs and write-ups](https://github.com/djadmin/awesome-bug-bounty) <br> 
-- [Write-ups](https://github.com/ngalongc/bug-bounty-reference) <br> 
-- [Zerodium](https://www.zerodium.com/) 💰:trollface:
-
-## 🏁 CTF - Capture the flag
-
-- [CTF - Google](https://capturetheflag.withgoogle.com/)
-- [Hacker101 ]( https://ctf.hacker101.com)
-- [HSTRIKE](https://hstrike.com)
-- [ImmersiveLabs](https://immersivelabs.com)
-- [NewbieContest](https://www.newbiecontest.org/)
-- [Pentestlab](https://pentesterlab.com)
-- [PentestIT LAB](https://lab.pentestit.ru)
-- [PicoCTF](https://picoctf.com)
-- [Root in Jail](http://rootinjail.com)
-- [Academy Hackaflag BR](https://hackaflag.com.br/)
 
 ## 📉 Domain name Research / Analysis / Reputation
 
