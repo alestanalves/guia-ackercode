@@ -8,16 +8,16 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hacking para todos, temos o objetivo de te ajudar a trilhar um caminho nessa área que tanto amamos. Contudo, fique com os conteúdos abaixo e não esqueça de nos **seguir** por aqui e bem-vindo ao mundo da tecnologia.
+Uma das nossas inspirações para este guia foi o [guia devbrasil](https://github.com/arthurspk/guiadevbrasil) e todos os conteúdos de awesome do github.
 
 ## O melhor curso de Ciência da Computação (faculdade de Harvard) (•◡•) /
 
 - [CS50 Curso de Ciência da Computação de Harvard - PT/BR](https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard)
 - [CS50 English](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
-### Build your own X ≧◠‿◠≦ e Guia de Programação ✌
+## Build your own X ≧◠‿◠≦ e Guia de Programação ✌
  
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
-- [Guia completo devbrasil](https://github.com/arthurspk/guiadevbrasil)
 
 ## Introdução à Ciência da Computação
 
