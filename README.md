@@ -12,6 +12,7 @@ Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hack
 ## Build your own X ≧◠‿◠≦✌
 
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+- [Guia completo de programacao](https://github.com/arthurspk/guiadevbrasil)
 
 ## Introdução à Ciência da Computação
 
