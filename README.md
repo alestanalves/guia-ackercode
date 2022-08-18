@@ -15,7 +15,7 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 - [CS50 Curso de Ciência da Computação de Harvard - PT/BR](https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard)
 - [CS50 English](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
-## Build your own X ≧◠‿◠≦ e Guia de Programação ✌
+## Build your own X ≧◠‿◠≦
  
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 
