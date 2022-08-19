@@ -256,13 +256,15 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 
 ## ⭐ Awesome 
 
-- [Hacking list](https://github.com/Hack-with-Github/Awesome-Hacking)
-- [Honeypots](https://github.com/paralax/awesome-honeypots)
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
 - [Reposta a incidentes](https://github.com/meirwah/awesome-incident-response/)
-- [Analise de Malware](https://github.com/rshipp/awesome-malware-analysis/)
-- [Red Team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
-- [Seguranca](https://github.com/sbilly/awesome-security)
+- [Awesome Malware](https://github.com/rshipp/awesome-malware-analysis/)
+- [Awesome Red Team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+- [Awesome Security](https://github.com/sbilly/awesome-security)
 - [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
+- [Awesome Darknet](https://github.com/DarknetList/awesome-darknet)
+- [Awesome Tor](https://github.com/ajvb/awesome-tor)
 
 ## 🦾 Linha de comando
 
