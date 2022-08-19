@@ -229,6 +229,8 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
  - [Brave Browser](https://brave.com) - Private Browser <br>
  - [Tor Browser](https://www.torproject.org/) - Browser privado e anonimo <br>
  - [ProtonMail](https://protonmail.com/) - Provedor de email <br>
+ - [Tua mae aquela ursa](https://tuamaeaquelaursa.com/) - Email temporario BR <br>
+ - [Inbox Kitten](https://inboxkitten.com/) - Email temporario <br>
  
  ## 🍒 Raspberry Pi/ IoT Security Software
 
