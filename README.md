@@ -12,7 +12,7 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 
 ## E-book Dark Web
 
-- [O Guia da Dar Web](https://go.hotmart.com/R74193445S?dp=1)
+- [Os segredos da Dark Web](https://go.hotmart.com/R74193445S?dp=1)
 
 ## O melhor curso de Ciência da Computação (Harvard) (•◡•) /
 
