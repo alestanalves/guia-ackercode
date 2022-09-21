@@ -24,6 +24,10 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
  
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 
+## Roadmap
+
+- [Roadmap de diversas areas](https://roadmap.sh/)
+
 ## Security Checklist
 
 - [Security Checklist](https://github.com/Lissy93/personal-security-checklist)
