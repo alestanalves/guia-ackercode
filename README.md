@@ -36,6 +36,10 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 
 - [computer-science](https://github.com/ossu/computer-science)
 
+## Introdução à Ethical Hacking
+
+- [ethical-hacking](https://www.hacksplaining.com/lessons)
+
 ## 📚 Recomendação de livros
 
 - [The Hardware Hacking Handbook](https://amzn.to/3Q7Kvnp) <br>
