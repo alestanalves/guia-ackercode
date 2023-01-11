@@ -262,14 +262,12 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 - [SquidGuard](http://www.squidguard.org) - Fast and free URL redirector, which can work well as a home caching server
 - [E2guardian](http://e2guardian.org) - Comprehensive content filtering, with powerful configuration options
 
-
 ## 👉 USB-based projects:
 
 - [DBAN](https://dban.org) - Bootable hard drive erasers for destroying data
 - [Syncthing](https://syncthing.net) - Create automated backups to an external medium
 - [KeePass Portable](https://keepass.info/download.html) - Portable password manager. For hardware-encrypted password manager, see [HardPass 2.0](https://hackaday.io/project/21227-hardpass02-hardware-passwd-manager-w-smart-card)
 - [VeraCrypt](https://www.veracrypt.fr) - Full drive encryption for USB devices
-
 
 ## ⭐ Awesome 
 
