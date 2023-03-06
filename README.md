@@ -34,11 +34,11 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 
 ## Introdução à Ciência da Computação
 
-- [computer-science](https://github.com/ossu/computer-science)
+- [computer science](https://github.com/ossu/computer-science)
 
 ## Introdução à Ethical Hacking
 
-- [ethical-hacking](https://www.hacksplaining.com/lessons)
+- [ethical hacking](https://www.hacksplaining.com/lessons)
 
 ## 📚 Recomendação de livros
 
@@ -57,6 +57,18 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 - [Engenharia de Confiabilidade do Google](https://amzn.to/3dczpPn) <br>
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books) <br>
 - [Recommended Reading](http://dfir.org/?q=node/8) <br>
+
+## 📚 Livros gratis de programação e tecnologia
+
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
+
+## Dicas para passar na sua primeira entrevista de emprego em programação
+
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ptbr.md)
+
+## Construir sistemas robustos que aguentam paulada
+
+- [https://github.com/donnemartin/system-design-primer](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ptbr.md)
 
 ## 🔐 Security
 
