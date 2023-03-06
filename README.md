@@ -16,7 +16,7 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 
 ## O melhor curso de Ciência da Computação (Harvard) (•◡•) /
 
-- [CS50 Curso de Ciência da Computação de Harvard - PT/BR](https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard)
+- [CS50 Curso de Ciência da Computação de Harvard em PT/BR](https://cs50xemportugues.github.io/2023/)
 - [CS50 English](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 - [CS50 Oficial](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
