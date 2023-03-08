@@ -356,4 +356,3 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
   
   - [EXIN Ethical Hacking Foundation](https://www.exin.com/pt-br/data-protection-security/exin-ethical-hacking/exin-ethical-hacking-foundation/) <br>
   - [AWS Security](https://aws.amazon.com/pt/certification/certified-security-specialty/?ch=sec&sec=rmg&d=1) <br>
-
