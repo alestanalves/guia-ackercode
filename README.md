@@ -68,7 +68,7 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 
 ## 🎢 Construir sistemas robustos que aguentam paulada
 
-- [https://github.com/donnemartin/system-design-primer](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ptbr.md)
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
 
 ## 🔐 Security
 
