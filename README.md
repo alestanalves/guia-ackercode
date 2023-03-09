@@ -207,6 +207,14 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 - [Curso de GO 5](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) <br>
 - [Awesome Go](https://github.com/avelino/awesome-go)╰(*°▽°*)╯ 🇧🇷 <br>
 
+## 👀 Ta precisando de APIs para teste?
+
+- [public-apis](https://github.com/public-apis/public-apis)
+
+## 🤔 The Art of Command Line
+
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+
 ## 📉 Domain name Research / Analysis / Reputation
 
 - [Archive](https://archive.is/) <br>
