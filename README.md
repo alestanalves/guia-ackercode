@@ -24,19 +24,19 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
  
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 
-## Roadmap
+## 🗺 Roadmap
 
 - [Roadmap de diversas areas](https://roadmap.sh/)
 
-## Security Checklist
+## 🔐 Security Checklist
 
 - [Security Checklist](https://github.com/Lissy93/personal-security-checklist)
 
-## Introdução à Ciência da Computação
+## 👨‍💻 Introdução à Ciência da Computação
 
 - [computer science](https://github.com/ossu/computer-science)
 
-## Introdução à Ethical Hacking
+## 🧛‍♀️ Introdução à Ethical Hacking
 
 - [ethical hacking](https://www.hacksplaining.com/lessons)
 
@@ -62,11 +62,11 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br>
 
-## Dicas para passar na sua primeira entrevista de emprego em programação
+## 🗿 Dicas para passar na sua primeira entrevista de emprego em programação
 
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ptbr.md)
 
-## Construir sistemas robustos que aguentam paulada
+## 🎢 Construir sistemas robustos que aguentam paulada
 
 - [https://github.com/donnemartin/system-design-primer](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ptbr.md)
 
