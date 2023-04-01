@@ -28,6 +28,10 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 
 - [Roadmap de diversas areas](https://roadmap.sh/)
 
+## Tech guide
+
+- [Guia incrivel de tecnologia](https://techguide.sh/pt-BR/path/data-science/)
+
 ## 🔐 Security Checklist
 
 - [Security Checklist](https://github.com/Lissy93/personal-security-checklist)
