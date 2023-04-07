@@ -115,10 +115,11 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 - [Pentest Lab](https://pentesterlab.com/) <br>
 - [Offensive Security](https://www.offensive-security.com/)
 
-## Phishing
+## 🐟 Phishing
 
 - [gophish](https://github.com/gophish/gophish)
 - [zphisher](https://github.com/htr-tech/zphisher)
+- [Social phishing](https://github.com/UndeadSec/SocialFish)
 
 ## 🍫 Bug bounty 
 
