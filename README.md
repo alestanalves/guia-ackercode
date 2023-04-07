@@ -120,6 +120,7 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 - [gophish](https://github.com/gophish/gophish)
 - [zphisher](https://github.com/htr-tech/zphisher)
 - [Social phishing](https://github.com/UndeadSec/SocialFish)
+- [Wifi Phishing](https://github.com/wifiphisher/wifiphisher)
 
 ## 🍫 Bug bounty 
 
