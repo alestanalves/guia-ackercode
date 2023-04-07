@@ -115,6 +115,11 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 - [Pentest Lab](https://pentesterlab.com/) <br>
 - [Offensive Security](https://www.offensive-security.com/)
 
+## Phishing
+
+- [gophish](https://github.com/gophish/gophish)
+- [zphisher](https://github.com/htr-tech/zphisher)
+
 ## 🍫 Bug bounty 
 
 - [Bounty factory](https://bountyfactory.io) <br> 
@@ -304,6 +309,7 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 - [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
 - [Awesome Darknet](https://github.com/DarknetList/awesome-darknet)
 - [Awesome Tor](https://github.com/ajvb/awesome-tor)
+- [Awesome Red Team](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 
 ## 🦾 Linha de comando
 
