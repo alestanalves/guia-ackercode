@@ -191,6 +191,8 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 - [Python 3 - Curso Rápido](https://www.cod3r.com.br/courses/python-3-curso-rapido) <br>
 - [Python Fundamentos Para Análise de Dados 3.0](https://www.datascienceacademy.com.br/course/python-fundamentos) <br>
 
+## IA
+
 ## 🖱 Hardware 
 
 - [Robotics](https://github.com/Kiloreux/awesome-robotics#readme) - Awesome Robotics 
