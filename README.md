@@ -10,7 +10,7 @@
 Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hacking para todos, temos o objetivo de te ajudar a trilhar um caminho nessa área que tanto amamos. Contudo, fique com os conteúdos abaixo e não esqueça de nos **seguir** por aqui e bem-vindo ao mundo da tecnologia.
 Uma das nossas inspirações para este guia foi o [guia devbrasil](https://github.com/arthurspk/guiadevbrasil) e todos os conteúdos de [awesome](https://github.com/sindresorhus/awesome) do github.
 
-## E-book Dark Web
+## E-book Dark Web 📕
 
 - [Os segredos da Dark Web - E-book](https://go.hotmart.com/R74193445S?dp=1)
 
