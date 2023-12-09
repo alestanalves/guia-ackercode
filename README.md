@@ -133,7 +133,7 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 - [Open bug bounty](https://www.openbugbounty.org/) <br> 
 - [Programs and write-ups](https://github.com/djadmin/awesome-bug-bounty) <br> 
 - [Write-ups](https://github.com/ngalongc/bug-bounty-reference) <br> 
-- [Zerodium](https://www.zerodium.com/) 💰:trollface:
+- [Zerodium](https://www.zerodium.com/) 
 
 ## 🏁 CTF - Capture the flag
 
