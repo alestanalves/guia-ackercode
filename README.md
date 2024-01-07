@@ -32,6 +32,27 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 
 - [Guia incrivel de tecnologia](https://techguide.sh/pt-BR/path/data-science/)
 
+## 🐍 Python
+
+- [Scripts Python](https://github.com/ackercode/tutorials) <br>
+- [Curso de Python 1](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
+- [Curso de Python 2](https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) <br>
+- [Curso de Python 3](https://www.youtube.com/watch?v=XKHEtdqhLK8) <br>
+- [Curso de Python 4](https://www.youtube.com/watch?v=_uQrJ0TkZlc) <br>
+- [Curso de Python 5](https://www.youtube.com/watch?v=rfscVS0vtbw) <br>
+- [Curso de Python 6](https://www.youtube.com/watch?v=8DvywoWv6fI) <br>
+- [Curso de Python 7](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) <br>
+- [Curso de Python 8](https://www.youtube.com/watch?v=t8pPdKYpowI) <br>
+- [Curso de Python 9](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) <br>
+- [Curso de Python 10](https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k) <br>
+- [Python curso em vídeo playlist](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
+- [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) <br>
+- [Curso de Python 3 - Mundo 2: Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) <br>
+- [Curso de Python 3 - Mundo 3: Estruturas Compostas](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) <br>
+- [Exercícios de Python 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) <br>
+- [Python 3 - Curso Rápido](https://www.cod3r.com.br/courses/python-3-curso-rapido) <br>
+- [Python Fundamentos Para Análise de Dados 3.0](https://www.datascienceacademy.com.br/course/python-fundamentos) <br>
+
 ## 🔐 Security Checklist
 
 - [Security Checklist](https://github.com/Lissy93/personal-security-checklist)
@@ -169,27 +190,6 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 - [HStrike](https://hstrike.com/) - Pentest em nuvem <br>
 - [HTTRack](http://www.httrack.com/) - Browser utility <br>
 - [Maltego](https://www.paterva.com/) - Ambiente open source para análise de redes<br>
-
-## 🐍 Python
-
-- [Scripts Python](https://github.com/ackercode/tutorials) <br>
-- [Curso de Python 1](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
-- [Curso de Python 2](https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) <br>
-- [Curso de Python 3](https://www.youtube.com/watch?v=XKHEtdqhLK8) <br>
-- [Curso de Python 4](https://www.youtube.com/watch?v=_uQrJ0TkZlc) <br>
-- [Curso de Python 5](https://www.youtube.com/watch?v=rfscVS0vtbw) <br>
-- [Curso de Python 6](https://www.youtube.com/watch?v=8DvywoWv6fI) <br>
-- [Curso de Python 7](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) <br>
-- [Curso de Python 8](https://www.youtube.com/watch?v=t8pPdKYpowI) <br>
-- [Curso de Python 9](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) <br>
-- [Curso de Python 10](https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k) <br>
-- [Python curso em vídeo playlist](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
-- [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) <br>
-- [Curso de Python 3 - Mundo 2: Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) <br>
-- [Curso de Python 3 - Mundo 3: Estruturas Compostas](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) <br>
-- [Exercícios de Python 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) <br>
-- [Python 3 - Curso Rápido](https://www.cod3r.com.br/courses/python-3-curso-rapido) <br>
-- [Python Fundamentos Para Análise de Dados 3.0](https://www.datascienceacademy.com.br/course/python-fundamentos) <br>
 
 ## IA
 
