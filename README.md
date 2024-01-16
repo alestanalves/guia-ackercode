@@ -193,6 +193,8 @@ Uma das nossas inspirações para este guia foi o [guia devbrasil](https://githu
 
 ## IA
 
+- [IA From scratch](https://www.youtube.com/watch?v=w8yWXqWQYmU) - Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math) <br>
+
 ## 🖱 Hardware 
 
 - [Robotics](https://github.com/Kiloreux/awesome-robotics#readme) - Awesome Robotics 
