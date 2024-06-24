@@ -10,6 +10,12 @@
 Acker Code é um projeto idealizado para fornecer conteúdo de tecnologia e hacking para todos, temos o objetivo de te ajudar a trilhar um caminho nessa área que tanto amamos. Contudo, fique com os conteúdos abaixo e não esqueça de nos **seguir** por aqui e bem-vindo ao mundo da tecnologia.
 Uma das nossas inspirações para este guia foi o [guia devbrasil](https://github.com/arthurspk/guiadevbrasil) e todos os conteúdos de [awesome](https://github.com/sindresorhus/awesome) do github.
 
+## Python do ZERO ao Hacking 
+
+- [Ackerdemy](https://ackerdemy.com)
+
+O curso Python do 0 ao Hacking é uma jornada completa para aqueles que desejam dominar a linguagem Python enquanto mergulham no mundo da segurança da informação. Projetado meticulosamente, este curso não apenas ensina as habilidades essenciais de programação em Python, mas também explora técnicas avançadas de hacking, capacitando os alunos a utilizarem Python como uma ferramenta poderosa em suas incursões no mundo digital.
+
 ## E-book Dark Web 📕
 
 - [Os segredos da Dark Web - E-book](https://go.hotmart.com/R74193445S?dp=1)
