@@ -27,67 +27,67 @@ O curso Python do 0 ao Hacking é uma jornada completa para aqueles que desejam 
 - [CS50 Oficial](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 ## Build your own X ≧◠‿◠≦
- 
-- [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x) - Repositório com tutoriais para construir suas próprias versões de várias tecnologias.
 
 ## 🗺 Roadmap
 
-- [Roadmap de diversas areas](https://roadmap.sh/)
+- [Roadmap de diversas áreas](https://roadmap.sh/) - Guias de aprendizado passo a passo para várias áreas de desenvolvimento de software.
 
 ## Tech guide
 
-- [Guia incrivel de tecnologia](https://techguide.sh/pt-BR/path/data-science/)
+- [Guia incrível de tecnologia](https://techguide.sh/pt-BR/path/data-science/) - Caminhos de aprendizado e recursos para várias disciplinas tecnológicas.
 
 ## 🐍 Python
 
-- [Scripts Python](https://github.com/ackercode/tutorials) <br>
-- [Curso de Python 1](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
-- [Curso de Python 2](https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) <br>
-- [Curso de Python 3](https://www.youtube.com/watch?v=XKHEtdqhLK8) <br>
-- [Curso de Python 4](https://www.youtube.com/watch?v=_uQrJ0TkZlc) <br>
-- [Curso de Python 5](https://www.youtube.com/watch?v=rfscVS0vtbw) <br>
-- [Curso de Python 6](https://www.youtube.com/watch?v=8DvywoWv6fI) <br>
-- [Curso de Python 7](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) <br>
-- [Curso de Python 8](https://www.youtube.com/watch?v=t8pPdKYpowI) <br>
-- [Curso de Python 9](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) <br>
-- [Curso de Python 10](https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k) <br>
-- [Python curso em vídeo playlist](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
-- [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) <br>
-- [Curso de Python 3 - Mundo 2: Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) <br>
-- [Curso de Python 3 - Mundo 3: Estruturas Compostas](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) <br>
-- [Exercícios de Python 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) <br>
-- [Python 3 - Curso Rápido](https://www.cod3r.com.br/courses/python-3-curso-rapido) <br>
-- [Python Fundamentos Para Análise de Dados 3.0](https://www.datascienceacademy.com.br/course/python-fundamentos) <br>
+- [Scripts Python](https://github.com/ackercode/tutorials) - Coleção de tutoriais e scripts úteis em Python.
+- [Curso de Python 1](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) - Curso de Python para iniciantes no YouTube.
+- [Curso de Python 2](https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) - Série de vídeos para aprender Python.
+- [Curso de Python 3](https://www.youtube.com/watch?v=XKHEtdqhLK8) - Vídeo sobre fundamentos de Python.
+- [Curso de Python 4](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - Curso completo de Python para iniciantes.
+- [Curso de Python 5](https://www.youtube.com/watch?v=rfscVS0vtbw) - Curso em vídeo sobre Python, cobrindo desde o básico até conceitos avançados.
+- [Curso de Python 6](https://www.youtube.com/watch?v=8DvywoWv6fI) - Vídeo introdutório ao Python.
+- [Curso de Python 7](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) - Série de tutoriais em Python.
+- [Curso de Python 8](https://www.youtube.com/watch?v=t8pPdKYpowI) - Curso sobre Python focado em projetos práticos.
+- [Curso de Python 9](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) - Playlist de cursos de Python para iniciantes.
+- [Curso de Python 10](https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k) - Curso básico de Python online.
+- [Python curso em vídeo playlist](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) - Playlist de cursos em vídeo sobre Python.
+- [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Curso em vídeo sobre os fundamentos do Python 3.
+- [Curso de Python 3 - Mundo 2: Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Curso sobre estruturas de controle em Python.
+- [Curso de Python 3 - Mundo 3: Estruturas Compostas](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) - Curso sobre estruturas compostas em Python.
+- [Exercícios de Python 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) - Série de exercícios para praticar Python 3.
+- [Python 3 - Curso Rápido](https://www.cod3r.com.br/courses/python-3-curso-rapido) - Curso rápido de Python 3.
+- [Python Fundamentos Para Análise de Dados 3.0](https://www.datascienceacademy.com.br/course/python-fundamentos) - Curso sobre Python para análise de dados.
 
 ## 🔐 Security Checklist
 
-- [Security Checklist](https://github.com/Lissy93/personal-security-checklist)
+- [Security Checklist](https://github.com/Lissy93/personal-security-checklist) - Lista de verificação pessoal para melhorar a segurança online.
 
 ## 👨‍💻 Introdução à Ciência da Computação
 
-- [computer science](https://github.com/ossu/computer-science)
+- [computer science](https://github.com/ossu/computer-science) - Currículo aberto para aprendizado de ciência da computação.
 
 ## 🧛‍♀️ Introdução à Ethical Hacking
 
-- [ethical hacking](https://www.hacksplaining.com/lessons)
+- [ethical hacking](https://www.hacksplaining.com/lessons) - Lições interativas sobre hacking ético e segurança.
 
 ## 📚 Recomendação de livros
 
-- [The Hardware Hacking Handbook](https://amzn.to/3Q7Kvnp) <br>
-- [Practical Iot Hacking](https://amzn.to/3C3BVCj) <br>
-- [Black Hat Go](https://amzn.to/3p6y67j) <br>
-- [Clean Code - Código Limpo](https://amzn.to/3zJVv3I) <br>
-- [Refactoring - Refatoração](https://amzn.to/3P7owfb) <br>
-- [Clean Archtecture - Arquitertura Limpa](https://amzn.to/3P1B9Z7) <br>
-- [O programador pragmático](https://amzn.to/3AcDXPb) <br>
-- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://amzn.to/3QuJTIx) <br>
-- [Linux Basics for Hackers](https://amzn.to/3A0Xkua) <br>
-- [Introdução à Linguagem Go](https://amzn.to/3zvqwIo) <br>
-- [O mítico homem-mês](https://amzn.to/3A0Xkua) <br>
-- [Domain-Driven Design](https://amzn.to/3BJ68pN) <br>
-- [Engenharia de Confiabilidade do Google](https://amzn.to/3dczpPn) <br>
-- [Free programming books](https://github.com/EbookFoundation/free-programming-books) <br>
-- [Recommended Reading](http://dfir.org/?q=node/8) <br>
+- [The Hardware Hacking Handbook](https://amzn.to/3Q7Kvnp) - Manual sobre hacking de hardware.
+- [Practical Iot Hacking](https://amzn.to/3C3BVCj) - Guia prático sobre hacking de IoT.
+- [Black Hat Go](https://amzn.to/3p6y67j) - Livro sobre programação ofensiva com Go.
+- [Clean Code - Código Limpo](https://amzn.to/3zJVv3I) - Livro sobre práticas para escrever código limpo.
+- [Refactoring - Refatoração](https://amzn.to/3P7owfb) - Guia para refatoração de código.
+- [Clean Architecture - Arquitetura Limpa](https://amzn.to/3P1B9Z7) - Livro sobre design de software com arquitetura limpa.
+- [O programador pragmático](https://amzn.to/3AcDXPb) - Livro sobre práticas de programação pragmática.
+- [14 Hábitos de Desenvolvedores Altamente Produtivos](https://amzn.to/3QuJTIx) - Guia sobre hábitos para desenvolvedores eficazes.
+- [Linux Basics for Hackers](https://amzn.to/3A0Xkua) - Introdução ao Linux com foco em hacking.
+- [Introdução à Linguagem Go](https://amzn.to/3zvqwIo) - Livro para iniciantes na linguagem Go.
+- [O mítico homem-mês](https://amzn.to/3A0Xkua) - Ensaios clássicos sobre engenharia de software.
+- [Domain-Driven Design](https://amzn.to/3BJ68pN) - Guia sobre design de software orientado por domínio.
+- [Engenharia de Confiabilidade do Google](https://amzn.to/3dczpPn) - Livro sobre práticas de engenharia de confiabilidade no Google.
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books) - Coletânea de livros gratuitos sobre programação.
+- [Recommended Reading](http://dfir.org/?q=node/8) - Lista de leituras recomendadas sobre segurança e resposta a incidentes.
 
 ## 📚 Livros gratis de programação e tecnologia
 
@@ -393,6 +393,3 @@ O curso Python do 0 ao Hacking é uma jornada completa para aqueles que desejam 
 
 - [EXIN Ethical Hacking Foundation](https://www.exin.com/pt-br/data-protection-security/exin-ethical-hacking/exin-ethical-hacking-foundation/) - Certificação básica em hacking ético.
 - [AWS Security](https://aws.amazon.com/pt/certification/certified-security-specialty/?ch=sec&sec=rmg&d=1) - Certificação de segurança na nuvem da AWS.
-
-Espero que essas descrições ajudem a esclarecer o propósito de cada recurso! Se precisar de mais alguma coisa, é só avisar.
-
