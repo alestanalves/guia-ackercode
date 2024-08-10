@@ -142,6 +142,10 @@ O curso Python do 0 ao Hacking é uma jornada completa para aqueles que desejam 
 - [Pentest Lab](https://pentesterlab.com/) <br>
 - [Offensive Security](https://www.offensive-security.com/)
 
+## Prompt Injection 
+
+- [Learn Prompting](https://learnprompting.org/docs/prompt_hacking/injection) <br>
+
 ## 🐟 Phishing
 
 - [gophish](https://github.com/gophish/gophish)
