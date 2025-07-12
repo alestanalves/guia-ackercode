@@ -281,8 +281,6 @@ O curso Python do 0 ao Hacking é uma jornada completa para aqueles que desejam 
 - [Whois - LACNIC](http://lacnic.net/cgi-bin/lacnic/whois) - Consulta Whois para registros na América Latina.
 - [Whois - RIPE NCC](https://apps.db.ripe.net/search/query.html) - Consulta Whois para registros na Europa.
 - [Whois - AFRINIC](http://www.afrinic.net/fr/services/whois-query) - Consulta Whois para registros na África
-
-.
 - [Whois - APNIC](https://archive.is/) - Consulta Whois para registros na região Ásia-Pacífico.
 - [Whois by registrant name](http://viewdns.info/reversewhois/) - Pesquisa Whois reversa por nome de registrante.
 - [Zeltser's list](https://zeltser.com/lookup-malicious-websites/) - Recursos para identificar sites maliciosos.
