@@ -2,7 +2,7 @@
   <a href="https://github.com/alestanalves/guia-ackercode">
     <img src="https://user-images.githubusercontent.com/48387196/183309806-88d29b65-2202-443a-be2d-1d51fc16559c.png" width="300" height="300">
   </a>
-  <h1 align="center">Seu guia de Programação e Hacking</h1>
+  <h1 align="center">Seu guia de Programação, Hacking, Data & AI</h1>
 </p>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
